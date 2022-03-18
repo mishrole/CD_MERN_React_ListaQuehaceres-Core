@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CD_MERN_React_ListaQuehaceres-Core/static/css/main.56e6221f.css",
+    "main.js": "/CD_MERN_React_ListaQuehaceres-Core/static/js/main.ac944b9b.js",
+    "static/js/787.e9a7c152.chunk.js": "/CD_MERN_React_ListaQuehaceres-Core/static/js/787.e9a7c152.chunk.js",
+    "index.html": "/CD_MERN_React_ListaQuehaceres-Core/index.html",
+    "main.56e6221f.css.map": "/CD_MERN_React_ListaQuehaceres-Core/static/css/main.56e6221f.css.map",
+    "main.ac944b9b.js.map": "/CD_MERN_React_ListaQuehaceres-Core/static/js/main.ac944b9b.js.map",
+    "787.e9a7c152.chunk.js.map": "/CD_MERN_React_ListaQuehaceres-Core/static/js/787.e9a7c152.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.ac944b9b.js"
+  ]
+}
